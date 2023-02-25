@@ -1,2 +1,14 @@
 # CS250Journal8
 Upload for CS250 
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+      The best way to find out what users need is to ask them directly through Surveys, conversations, and feedback on the existing product. User Stories are designed to help the Scrum team better understand how these needs should be implimented. A user may give feedback that a product needs a dark mode because the light screen hurts their eyes. Simply off of this it could be decided that the entire site needs to be made dark, but what about users that prefer light mode? User stories help to answer questions like these when implementing user needs into the program by specifying what goals it should meet. For example, a User story for the above situation may specify that there should be a toggle to switch modes or that once a user selects a mode it should save that choice when the user returns. This helps the devlopers and testers know what the end product should include.
+      
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
+    Being new to devlopment I tend to bite off more than I can chew. When working on personal projects I tend to skip planning and just jump right in. This is fine at first, but as I start to add more and more things to a project it's hard to know when it's "done" since I do not set a specific goal and just keep piling more on. Scrum is meant to involve a team, but the framework and the agile principles work just as well in a solo situation. Studying this has made me view projects less as one big ever changing thing, but rather one thing made up of small parts. In the future planning and implementing "sprints" will be a part of my development cycle and it will hopefully help to leave me less overwhelmed by large projects.
+    
+What does it mean to be a good team member in software development?
+
+    Being a good team member doesn't mean being good at software development or your role in the team. Being a good team member involves trust, support, and accountability. Team members should communicate with each other and be open to both give and recieve feedback. A good team member should collaborate to make sure a goal is met efficiently and with good quality. All team members should be open to asking for help and providing help if they can. For an example, say a developer only has limited knowledge on a specific language required for the program, while another team member has vastly more knowledge than them in that area. The developer could try to teach themseleves and learn what they need for the project, but that takes time away from development and could lead to more erros since this developer has limited knowledge. The better option would be to partner with the more experienced team member to both produce the code quicker with better quality and to learn from them.
